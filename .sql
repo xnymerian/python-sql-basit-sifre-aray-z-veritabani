@@ -30,4 +30,4 @@ while 1==1:
          print("Welcome the programme {}!".format(data[0]))
          break
       else:
-         print("Parola veya kullanıcı adı yanlış!")
+         print("Password or Username is incorrect!")
